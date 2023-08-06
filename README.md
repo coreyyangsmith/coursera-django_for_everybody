@@ -4,7 +4,13 @@ _This repo contains personally completed coursework for the University of Michig
 This course uses [PythonAnywhere](http://pythonanywhere.com) to host our server, if the project is still hosted live it can be found [here](http://coreyyangsmith.pythonanywhere.com/ads)
 
 # Coursework 📖
-## Course 1: Web Application Technologies an Django
+### Summary
+* [Course 1: Web Application Technologies and Django](#course-1-web-application-technologies-and-django)
+* [Course 2: Building Web Applications in Django](#course-2-building-web-applications-in-django)
+* [Course 3: Django Features and Libraries](#course-3-django-features-and-libraries)
+* [Course 4: Using JavaScript, JQuery, and JSON in Django](#course-4-using-javascript-jquery-and-json-in-django)
+
+## Course 1: Web Application Technologies and Django
 ##### Lecture
 In this course, we learned the basic structure of a web application and received an introduction to some of the front-end and back-end technologies that we will utilize to create websites (HTML, CSS, SQL). I learned the history and implementation of the HTTP protocol and the request/response cycle, including GET/POST/PUT/Redirect. This courses utilizes PythonAnywhere to host our Django Application
 
@@ -31,7 +37,7 @@ The labs in this course included small apps to solidify our understanding of dja
 * Week 3: Django Generic Views
 * Week 4: Forms in HTTP and HTML
 
-## Course 3: Django Featues and Libraries
+## Course 3: Django Features and Libraries
 ##### Lecture
 In this course, we expand on Django features that are used to create good experiences for the end-user. We explored how Django handles both Cookies and Sessions, and the user authentication and login processes. We built out navigation within our pages, and many smaller django apps together to demonstrate CRUD operations, cookies and sessions, and different model types.
 
@@ -46,7 +52,7 @@ In the labs, we built out a number of smaller webapps to demonstrate understandi
 * Week 5: Owned Rows
 * Week 6: Many to Many Data Models
 
-## Course 4: Using JavaScript, JQueyr, and JSON in Django
+## Course 4: Using JavaScript, JQuery, and JSON in Django
 ##### Lecture
 In this final course, we look at an introduction and history to JavaScript and how it can be used to manipulate the virutal DOM to help us work with web pages dynamically. We explore JavaScript syntax and functions, as well as other FP and OOP parts of JavaScript. Afterwards, we explore how to jQuery libary came about, and how we can use it in our project for DOM manipulation and event handling. Additionally, we learn the JSON format and how to serialize/deserialize this request type with Django. Finally, we receive an introduction to AJAX and explore how it can be used to create Single Page Applications (SPA).
 
