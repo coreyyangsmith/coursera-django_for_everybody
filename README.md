@@ -1,7 +1,7 @@
 # Django For Everybody
 _This repo contains personally completed coursework for the University of Michigan's online MOOC "Django for Everbody" hosted on Coursera_
 
-This course uses [PythonAnywhere](http://pythonanywhere.com) to host our server, if the project is still hosted live it can be found [here](http://coreyyangsmith.pythonanywhere.com)
+This course uses [PythonAnywhere](http://pythonanywhere.com) to host our server, if the project is still hosted live it can be found [here](http://coreyyangsmith.pythonanywhere.com/ads)
 
 # Coursework 📖
 ## Course 1: Web Application Technologies an Django
