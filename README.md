@@ -9,6 +9,7 @@ This course uses [PythonAnywhere](http://pythonanywhere.com) to host our server,
 * [Course 2: Building Web Applications in Django](#course-2-building-web-applications-in-django)
 * [Course 3: Django Features and Libraries](#course-3-django-features-and-libraries)
 * [Course 4: Using JavaScript, JQuery, and JSON in Django](#course-4-using-javascript-jquery-and-json-in-django)
+* [Capstone Project](#capstone-project)
 
 ## Course 1: Web Application Technologies and Django
 ##### Lecture
